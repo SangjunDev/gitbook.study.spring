@@ -29,4 +29,7 @@
 * 스프링 핵심 원리
 * 스프링 웹 MVC
 * 스프링 DB 데이터 접근 기술
-* 실전! 스프링 부
+* 실전! 스프링 부트
+
+출처 [https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
+
