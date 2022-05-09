@@ -1,5 +1,7 @@
 # 프로젝트 생성
 
+
+
 사전 준비물
 
 * Java 11
@@ -11,7 +13,7 @@
 
 프로젝트 선택
 
-![](<../.gitbook/assets/스크린샷 2022-05-08 오후 10.23.23.png>)
+![](<../../.gitbook/assets/스크린샷 2022-05-08 오후 10.23.23.png>)
 
 * Project: Gradle Project
 * Spring Boot: 뒤에 () 가 붙지 않는 최신버전 사
@@ -53,4 +55,3 @@ test {
 useJUnitPlatform()
 }
 ```
-
