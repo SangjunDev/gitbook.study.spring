@@ -14,7 +14,7 @@ MVC: Model, View, Controller
 
 ****
 
-Controller
+**Controller**
 
 ```
     @GetMapping("hello-mvc")
@@ -39,7 +39,7 @@ Controller
 
 
 
-![](<../../.gitbook/assets/스크린샷 2022-05-16 오후 9.07.17 (1).png>)
+![](<../../.gitbook/assets/스크린샷 2022-05-16 오후 9.23.42.png>)
 
 
 
